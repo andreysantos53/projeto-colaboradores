@@ -1,0 +1,15 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+}
+
+footer {
+  margin-top: 40px;
+  background: #eee;
+  padding: 10px;
+}
