@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "projeto-colaboradores",
+=======
+  "name": "atividade02.2",
+>>>>>>> f9dd5d021fea218b998bd4d7480335e9968cb39f
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
@@ -12,8 +16,12 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+<<<<<<< HEAD
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "mysql2": "^3.22.4"
+=======
+    "express": "^5.2.1"
+>>>>>>> f9dd5d021fea218b998bd4d7480335e9968cb39f
   }
 }
